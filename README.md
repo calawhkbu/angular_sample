@@ -1,3 +1,9 @@
+# Installing
+`npm i -g @angular/cli`
+
+After Installing, Create a dummy project
+`ng new angular-example`
+
 # AngularExample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
